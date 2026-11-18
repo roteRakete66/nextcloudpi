@@ -1,3 +1,8 @@
+> **ℹ️ About this Fork**  
+> This is a patched fork of [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) created to resolve installation breakages caused by a Debian version jump in the Proxmox community helper scripts.
+
+---
+
 English | [Traditional Chinese 繁體中文](i18n/README-zh_TW.md) | [Simplified Chinese 简体中文](i18n/README-zh_CN.md)
 
 _(The translated README pages are not updated at this time)_
