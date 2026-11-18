@@ -1,5 +1,6 @@
 > **ℹ️ About this Fork**  
-> This is a patched fork of [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) created to resolve installation breakages caused by a Debian version jump in the Proxmox community helper scripts.
+> This is a patched fork of [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) created to resolve installation breakages caused by a Debian version jump in the Proxmox community helper scripts.  
+> **Related Fork:** Used alongside my patched [`ProxmoxVE`](https://github.com/roteRakete66/ProxmoxVE) helper-scripts fork to restore working LXC container deployments during that transition.
 
 ---
 
